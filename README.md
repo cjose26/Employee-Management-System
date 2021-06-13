@@ -1,6 +1,6 @@
 # Employee Management System
 
-An Employee Tracker app desinged as a solution for managing a company's employees using node, inquirer, and MySQL.
+An Employee Tracker app desinged as a solution for managing a company's employees using node, inquirer, and MySQL. To install the application follow the guide below.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
